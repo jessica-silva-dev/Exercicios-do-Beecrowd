@@ -1,4 +1,4 @@
-# Exercicios do Beecrownd
+# Exercícios do Beecrowd
 
 ### Bem-vindo ao meu repositório de exercícios do Beecrowd!
 
